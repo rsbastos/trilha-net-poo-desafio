@@ -12,9 +12,7 @@ namespace DesafioPOO.Models
             Numero = numero;
             Modelo = modelo;
             IMEI = imei;
-            Memoria = memoria;
-
-            // TODO: Passar os parâmetros do construtor para as propriedades
+            Memoria = memoria;            
         }
 
         public void Ligar()
