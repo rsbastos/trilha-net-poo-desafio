@@ -12,7 +12,7 @@ namespace DesafioPOO.Models
             Numero = numero;
             Modelo = modelo;
             IMEI = imei;
-            Memoria = memoria;            
+            Memoria = memoria;              
         }
 
         public void Ligar()
